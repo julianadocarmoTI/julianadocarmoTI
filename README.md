@@ -2,7 +2,8 @@
 
 #### I'm Juliana do Carmo Jordy
 
-#### Front-end developer, studying to become a Full-Stack developer.
+#### Front-end developer!
+#### Studying to become a Full-Stack developer!
 
 #### Coding with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
